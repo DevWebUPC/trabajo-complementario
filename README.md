@@ -77,7 +77,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **NRC:** 7429
 
 **Nombre del equipo:** DevWeb 
+
 **Líder del equipo:** Baca Camargo, Vitaly Arturo  
+
 **Integrantes:**  
 - Huarcaya Matias  
 - Gilbert Alonso  
