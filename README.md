@@ -55,7 +55,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a Programar |
 |------------|------------|--------------------|
-| 1 | Explorar sitios web | [CodePen](https://codepen.io/your-lesson1) |
+| 1 | Explorar sitios web | [CodePen](https://codepen.io/trending) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
 | 3 | Añadir imágenes | [CodePen](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
