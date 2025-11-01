@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2 | Primera página HTML | [CodePen](https://codepen.io/Mr-Code-star/pen/myVzRPp) |
 | 3 | Añadir imágenes | [CodePen](https://codepen.io/Mr-Code-star/pen/XJXxpKm) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/Mr-Code-star/pen/RNreKRx) |
-| 5 | Página web | [CodePen](https://codepen/@your-lesson5) |
+| 5 | Página web | [CodePen](https://codepen.io/Mr-Code-star/pen/bNEmgBQ) |
 
 - Cuestionario: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSe8MYDlAQGcL5Dy0sJ3hvP6c78Pw0J6TKft8-tiYnsNEJTFxQ/viewform?usp=dialog)  
 - Compartir: #WebDevBeginners  
