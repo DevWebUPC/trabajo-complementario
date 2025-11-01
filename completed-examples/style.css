@@ -1,0 +1,19 @@
+/* style.css - Ejemplo básico para estudiantes */
+
+body {
+  background-color: #f0f8ff; /* azul claro */
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  color: #1e90ff; /* azul vivo */
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
+}
