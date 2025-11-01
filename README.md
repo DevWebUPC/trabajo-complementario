@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ---
 
 ## Recursos Adicionales
-- **Código Fuente Completo:** [Repositorio GitHub](https://github.com/yourusername/webdev-course-equipo)  
+- **Código Fuente Completo:** [Repositorio GitHub](https://github.com/DevWebUPC/webdev-course-devweb/tree/main/completed-examples)  
 - **Todas las Actividades Prácticas:**
 
 | Lección # | Actividad | Empezar a Programar |
